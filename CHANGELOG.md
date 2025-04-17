@@ -11,6 +11,12 @@
 
 - Introduce `screenshot_level` option and `before_capture_screenshot` hook to provide fine-grained control over when screenshots are taken. ([#153](https://github.com/getsentry/sentry-godot/pull/153))
 
+### Dependencies
+
+- Bump Native SDK from v0.8.3 to v0.8.4 ([#1](https://github.com/zhangjiangen11/sentry-godot/pull/1))
+  - [changelog](https://github.com/getsentry/sentry-native/blob/master/CHANGELOG.md#084)
+  - [diff](https://github.com/getsentry/sentry-native/compare/0.8.3...0.8.4)
+
 ## 0.3.1
 
 ### Fixes
