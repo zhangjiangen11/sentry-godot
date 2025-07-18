@@ -6,6 +6,12 @@
 
 - Check options.enabled during SDK initialization ([#250](https://github.com/getsentry/sentry-godot/pull/250))
 
+### Dependencies
+
+- Bump gdUnit 4 from v5.0.4-9-g5f30cbe to v5.0.5 ([#2](https://github.com/zhangjiangen11/sentry-godot/pull/2))
+  - [changelog](https://github.com/MikeSchulze/gdUnit4/blob/master/CHANGELOG.md#v505)
+  - [diff](https://github.com/MikeSchulze/gdUnit4/compare/v5.0.4-9-g5f30cbe...v5.0.5)
+
 ## 1.0.0-alpha.0
 
 ### Breaking changes
