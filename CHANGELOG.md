@@ -1,5 +1,13 @@
 # Changelog
 
+## Unreleased
+
+### Dependencies
+
+- Bump gdUnit 4 from v5.0.4-10-gbbae1ed to v5.0.5 ([#2](https://github.com/zhangjiangen11/sentry-godot/pull/2))
+  - [changelog](https://github.com/MikeSchulze/gdUnit4/blob/master/CHANGELOG.md#v505)
+  - [diff](https://github.com/MikeSchulze/gdUnit4/compare/v5.0.4-10-gbbae1ed...v5.0.5)
+
 ## 1.0.0-alpha.2
 
 ### Features
