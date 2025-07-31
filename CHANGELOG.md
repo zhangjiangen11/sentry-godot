@@ -2,6 +2,12 @@
 
 ## Unreleased
 
+### Dependencies
+
+- Bump Sentry Android from v8.17.0 to v8.18.0 ([#3](https://github.com/zhangjiangen11/sentry-godot/pull/3))
+  - [changelog](https://github.com/getsentry/sentry-java/blob/main/CHANGELOG.md#8180)
+  - [diff](https://github.com/getsentry/sentry-java/compare/8.17.0...8.18.0)
+
 ## Breaking changes
 
 - Remove `disabled_in_editor` option in favor of disabling SDK in the Godot editor by default.([#277](https://github.com/getsentry/sentry-godot/pull/277))
