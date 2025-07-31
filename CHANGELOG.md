@@ -2,6 +2,12 @@
 
 ## Unreleased
 
+### Dependencies
+
+- Bump gdUnit 4 from v5.0.4-14-g7c74883 to v5.0.5 ([#2](https://github.com/zhangjiangen11/sentry-godot/pull/2))
+  - [changelog](https://github.com/MikeSchulze/gdUnit4/blob/master/CHANGELOG.md#v505)
+  - [diff](https://github.com/MikeSchulze/gdUnit4/compare/v5.0.4-14-g7c74883...v5.0.5)
+
 ## Breaking changes
 
 - Remove `disabled_in_editor` option in favor of disabling SDK in the Godot editor by default.([#277](https://github.com/getsentry/sentry-godot/pull/277))
