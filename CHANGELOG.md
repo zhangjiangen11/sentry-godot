@@ -32,6 +32,9 @@
 - Bump Sentry Android from v8.18.0 to v8.19.0 ([#312](https://github.com/getsentry/sentry-godot/pull/312))
   - [changelog](https://github.com/getsentry/sentry-java/blob/main/CHANGELOG.md#8190)
   - [diff](https://github.com/getsentry/sentry-java/compare/8.18.0...8.19.0)
+- Bump gdUnit 4 from v5.0.4-35-gf421fd4 to v5.0.5 ([#2](https://github.com/zhangjiangen11/sentry-godot/pull/2))
+  - [changelog](https://github.com/MikeSchulze/gdUnit4/blob/master/CHANGELOG.md#v505)
+  - [diff](https://github.com/MikeSchulze/gdUnit4/compare/v5.0.4-35-gf421fd4...v5.0.5)
 
 ## 1.0.0-alpha.3
 
