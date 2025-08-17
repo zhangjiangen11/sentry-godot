@@ -1,5 +1,13 @@
 # Changelog
 
+## Unreleased
+
+### Dependencies
+
+- Bump Cocoa SDK from v8.54.0 to v8.55.0 ([#4](https://github.com/zhangjiangen11/sentry-godot/pull/4))
+  - [changelog](https://github.com/getsentry/sentry-cocoa/blob/main/CHANGELOG.md#8550)
+  - [diff](https://github.com/getsentry/sentry-cocoa/compare/8.54.0...8.55.0)
+
 ## 1.0.0-beta.0
 
 ### Breaking changes
