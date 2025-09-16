@@ -18,6 +18,9 @@
 - Bump Sentry Android from v8.21.0 to v8.21.1 ([#353](https://github.com/getsentry/sentry-godot/pull/353))
   - [changelog](https://github.com/getsentry/sentry-java/blob/main/CHANGELOG.md#8211)
   - [diff](https://github.com/getsentry/sentry-java/compare/8.21.0...8.21.1)
+- Bump Cocoa SDK from v8.55.1 to v8.56.0 ([#4](https://github.com/zhangjiangen11/sentry-godot/pull/4))
+  - [changelog](https://github.com/getsentry/sentry-cocoa/blob/main/CHANGELOG.md#8560)
+  - [diff](https://github.com/getsentry/sentry-cocoa/compare/8.55.1...8.56.0)
 
 ## 1.0.0-beta.1
 
