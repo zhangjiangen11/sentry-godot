@@ -6,6 +6,12 @@
 
 - Improve scene tree data capture performance ([#373](https://github.com/getsentry/sentry-godot/pull/373))
 
+### Dependencies
+
+- Bump Native SDK from v0.10.1 to v0.11.0 ([#1](https://github.com/zhangjiangen11/sentry-godot/pull/1))
+  - [changelog](https://github.com/getsentry/sentry-native/blob/master/CHANGELOG.md#0110)
+  - [diff](https://github.com/getsentry/sentry-native/compare/0.10.1...0.11.0)
+
 ## 1.0.0-beta.3
 
 ### Breaking changes
