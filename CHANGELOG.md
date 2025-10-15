@@ -39,9 +39,9 @@
   - [changelog](https://github.com/getsentry/sentry-java/blob/main/CHANGELOG.md#8230)
   - [diff](https://github.com/getsentry/sentry-java/compare/8.21.1...8.23.0)
 
-- Bump Native SDK from v0.10.1 to v0.11.2 ([#374](https://github.com/getsentry/sentry-godot/pull/374), [#385](https://github.com/getsentry/sentry-godot/pull/385), [#405](https://github.com/getsentry/sentry-godot/pull/405))
-  - [changelog](https://github.com/getsentry/sentry-native/blob/master/CHANGELOG.md#0112)
-  - [diff](https://github.com/getsentry/sentry-native/compare/0.10.1...0.11.2)
+- Bump Native SDK from v0.10.1 to v0.11.3 ([#374](https://github.com/getsentry/sentry-godot/pull/374), [#385](https://github.com/getsentry/sentry-godot/pull/385), [#405](https://github.com/getsentry/sentry-godot/pull/405), [#1](https://github.com/zhangjiangen11/sentry-godot/pull/1))
+  - [changelog](https://github.com/getsentry/sentry-native/blob/master/CHANGELOG.md#0113)
+  - [diff](https://github.com/getsentry/sentry-native/compare/0.10.1...0.11.3)
 
 ## 1.0.0-beta.3
 
